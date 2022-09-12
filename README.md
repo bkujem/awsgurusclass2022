@@ -1,1 +1,1 @@
-# awsgurus-123-2022
+# awsgurusclass2022
